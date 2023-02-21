@@ -13,6 +13,5 @@ public class Main
         Conexion conexionPrb = Conexion.getObjeto();
         conexionPrb.conectar();
         conexionPrb.desconectar();
-
     }
 }
