@@ -14,7 +14,5 @@ public class Main
         conexionPrb.conectar();
         conexionPrb.desconectar();
 
-        boolean rpta = conexionPrb instanceof Conexion;
-        System.out.println(rpta);
     }
 }
