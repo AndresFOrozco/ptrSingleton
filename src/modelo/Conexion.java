@@ -31,6 +31,6 @@ public class Conexion
     //Metodo de prueba simulando desconexión de DB
     public void desconectar()
     {
-        System.out.println("Me desconecte de la BD");
+        System.out.println("Me desconecte de la bd");
     }
 }
